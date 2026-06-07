@@ -1,0 +1,15 @@
+olvem
+- Docker Compose
+- Konfigurasi WordPress
+
+viko
+- Konfigurasi MariaDB
+
+leon
+- Dokumentasi
+
+anes
+- Pengujian
+
+mark
+- GitHub dan Presentasi
